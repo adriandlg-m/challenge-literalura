@@ -14,7 +14,7 @@ El sistema cuenta con un menú interactivo que permite realizar las siguientes a
 5.  **Listar libros por idioma:** Filtra la biblioteca local según las siglas de idioma (es, en, fr, pt).
 6.  **Mostrar estadisticas de los libros registrados.**
 ## 🚀 Tecnologías Utilizadas
-* **Java 21:** Lenguaje de programación principal.
+* **Java 17:** Lenguaje de programación principal.
 * **Spring Boot 4.0.x:** Framework para la gestión de dependencias y configuración.
 * **Spring Data JPA:** Para la persistencia de datos y mapeo objeto-relacional (ORM).
 * **MySQL:** Base de datos relacional para el almacenamiento persistente.
